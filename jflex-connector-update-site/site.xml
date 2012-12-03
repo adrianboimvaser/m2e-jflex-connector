@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="jflex m2e connector" url="https://github.com/adrianboimvaser/m2e-jflex-connector/tree/master/jflex-connector-update-site">
+      jaxws m2e connector update site
+   </description>
+   <feature url="features/foo.bar.baz.m2e.connectors.jflex.feature_1.0.0.201212031212.jar" id="foo.bar.baz.m2e.connectors.jflex.feature" version="1.0.0.201212031212">
+      <category name="m2e connectors"/>
+   </feature>
+   <category-def name="m2e connectors" label="m2e connectors"/>
+</site>
